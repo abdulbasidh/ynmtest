@@ -1,0 +1,9 @@
+{
+  "name": "Your NFT Minter",
+  "description": "Your NFT Description",
+  "external_url": "https://example.com/your-nft",
+  "twitter": "https://twitter.com/your_twitter",
+  "website": "https://your-website.com",
+  "discord": "https://discord.gg/your_discord",
+  "cover_photo": "https://example.com/cover-photo.jpg"
+}
